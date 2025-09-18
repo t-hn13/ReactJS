@@ -1,0 +1,5 @@
+.active {
+  font-size: 150px;
+  color: aqua;
+  transition: 0.2s ease;
+}
